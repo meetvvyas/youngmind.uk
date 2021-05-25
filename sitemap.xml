@@ -4,59 +4,56 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
-  <loc>https://vasave-dev.github.io/youngmind.uk/</loc>
+  <loc>https://youngmind.uk/</loc>
   <lastmod>2021-05-17T17:01:40+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://vasave-dev.github.io/youngmind.uk/index.html</loc>
+  <loc>https://youngmind.uk/index.html</loc>
   <lastmod>2021-05-17T17:01:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasave-dev.github.io/youngmind.uk/kickstart-scheme.html</loc>
+  <loc>https://youngmind.uk/kickstart-scheme.html</loc>
   <lastmod>2021-05-17T17:01:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasave-dev.github.io/youngmind.uk/about.html</loc>
+  <loc>https://youngmind.uk/about.html</loc>
   <lastmod>2021-05-17T17:01:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasave-dev.github.io/youngmind.uk/apprenticeships.html</loc>
+  <loc>https://youngmind.uk/apprenticeships.html</loc>
   <lastmod>2021-05-17T17:01:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasave-dev.github.io/youngmind.uk/traineeships.html</loc>
+  <loc>https://youngmind.uk/traineeships.html</loc>
   <lastmod>2021-05-17T17:01:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasave-dev.github.io/youngmind.uk/contact.html</loc>
+  <loc>https://youngmind.uk/contact.html</loc>
   <lastmod>2021-05-17T17:01:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasave-dev.github.io/youngmind.uk/cookies%20policy.html</loc>
+  <loc>https://youngmind.uk/cookies-policy.pdf</loc>
   <lastmod>2021-05-17T17:01:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasave-dev.github.io/youngmind.uk/privacy-policy.html</loc>
+  <loc>https://youngmind.uk/privacy-policy.pdf</loc>
   <lastmod>2021-05-17T17:01:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasave-dev.github.io/youngmind.uk/terms%20and%20conditions.html</loc>
+  <loc>https://youngmind.uk/termsandconditions.pdf</loc>
   <lastmod>2021-05-17T17:01:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
 
 </urlset>

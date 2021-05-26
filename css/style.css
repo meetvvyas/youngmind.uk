@@ -623,6 +623,7 @@ a.navbar-brand img {
 .img-responsive {
 	max-width: 100%;
 	object-fit: contain;
+	margin-bottom: 25px;
 }
 
 .slide_text h3 {

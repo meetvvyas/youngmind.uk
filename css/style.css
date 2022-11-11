@@ -468,8 +468,9 @@ a.navbar-brand {
 }
 
 a.navbar-brand img {
+	padding-left: 30px;
 	width: 250px;
-    height: auto;
+    height: 80px;
 }
 
 .top-header .navbar .navbar-collapse ul li a:focus {
